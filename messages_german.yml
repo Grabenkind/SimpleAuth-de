@@ -1,0 +1,40 @@
+#   Übersetzt von Grabenkind
+#   Bei Rechtschreibfehlern bitte kontaktieren
+#   Kontakt: grabenkind@gmail.com
+#   
+#   Dieses Plugin wird von CyborgManCZ entwickelt!
+#   Alle Fehler die keine Rechtschreibfehler sind,
+#   müssen dem Entwickler selbst berichtet werden.
+
+#SimpleAuth messages_german Datei
+messages:
+  prefix: '&8[&cAuth&8]&7'
+  noperm: '{PREFIX} &cKeine Berechtigung!'
+  bad_password: '{PREFIX} &cSchlechtes Passwort!'
+  password_not_match: '{PREFIX} &cPasswörter stimmen nicht überein!'
+  nick_already_registered: '{PREFIX} &cDieser Benutzername ist bereits registriert!'
+  registering: '{PREFIX} &aRegistriere..'
+  succesfully_registered: '{PREFIX} &aErfolgreich registriert!'
+  logging_in: '{PREFIX} &aLogge ein..'
+  succesfully_logged_in: '&aErfolgreich eingeloggt!'
+  register_repeating: '{PREFIX} &7Benutze: &c/register <Passwort> <Passwort_nochmal>'
+  login_repeating: '{PREFIX} &7Benutze: &c/login <Passwort>'
+  timeout: '&cDu wurdest gekickt: Zeitüberschreitung bei der Anmeldung!'
+  disabled_cmds_before_login: '{PREFIX} &cDu musst dich anmelden, bevor du Befehle verwenden kannst!'
+  spawn_set: '{PREFIX} &aSpawn gesetzt!'
+  spawn_cmd_usage: '{PREFIX} &7Benutze: &c/setspawn'
+  min_pswd_length: '{PREFIX} &cDas Passwort muss mindestens 6 Zeichen lang sein!'
+  login_cmd_usage: '{PREFIX} &7Benutze: &c/login <Passwort>'
+  register_cmd_usage: '{PREFIX} &7Benutze: &c/register <Passwort> <Passwort_nochmal>'
+  spawn_not_set: '{PREFIX} &cSpawn nicht gesetzt oder falsch gesetzt !'
+  updateAvailable: '{PREFIX} &7Ein Update ist verfügbar! &aDownloade es von der Plugin
+    Seite! &8(&cNEW_VER&8)'
+joinmessage:
+  enabled: true
+  lines:
+  - '&8&m-------------------------------------'
+  - '&c&lSERVER.COM'
+  - ''
+  - '&7Willkommen, &e{PLAYER}&7!'
+  - '&7Aktuelle Spieler: &e{ONLINE}&7/&e{MAX}'
+  - '&8&m-------------------------------------'
