@@ -1,3 +1,3 @@
-# FractalForest-de
-Die deutsche Übersetzung des Spigot Plugins **Fractal Forest** von *sword7*.  
-https://www.spigotmc.org/resources/fractal-forest.75850/
+# SimpleAuth-de
+Die deutsche Übersetzung des Spigot Plugins **SimpleAuth** von *CyborgManCZ*.  
+https://www.spigotmc.org/resources/simpleauth-simple-authentication-plugin.75739/
